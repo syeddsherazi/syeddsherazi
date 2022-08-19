@@ -7,7 +7,6 @@ These days I'm working as a tech lead at an early stage travel start-up based ou
 <h3 align="left">You can find me on</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syedalirazasherazi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syed-ali-raza-sherazi" height="25" width="30" /></a>
-<a href="https://www.facebook.com/syed.sherazi.940" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="syed-ali-raza-sherazi" height="25" width="30" /></a>
 <a href="mailto:syedd.sherazi@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="syed-ali-raza-sherazi" height="25" width="30" /></a>
 
 
