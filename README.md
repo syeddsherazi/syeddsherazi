@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Sherazi 👋
 
-I'm a software engineer with over 6 years of experience at early stage start-ups & MNCs both. Over the last years I've fulfilled different roles such as Product Engineer, FullStack Engineer and Senior Software Engineer.
+I'm a software engineer with over 8 years of experience at early stage start-ups & MNCs both. Over the last years I've fulfilled different roles such as Product Engineer, FullStack Engineer and Senior Software Engineer.
 
 These days I'm working as a tech lead at an early stage travel start-up based out of Antwerp, Belgium.
 
