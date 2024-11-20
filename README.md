@@ -14,7 +14,6 @@ These days I'm working as a tech lead at an early stage travel start-up based ou
    
 <h3 align="left">Languages & Libraries/Frame Works</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></a>
 <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
@@ -35,7 +34,7 @@ These days I'm working as a tech lead at an early stage travel start-up based ou
 
 <h3 align="left">Infrastructure</h3>
 <p align="left">
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google-cloud" width="40" height="40"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazon-aws" width="40" height="40"/>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
 </p>
